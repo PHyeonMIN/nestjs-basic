@@ -1,0 +1,8 @@
+db:
+  host: 'localhost'
+  username: 'postgres'
+  password: '4902'
+  synchronize: true # 다시 시작할 때마다 새롭게 엔티티 생성
+
+jwt:
+  secret: 'Secret1234'
